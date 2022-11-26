@@ -27,3 +27,5 @@ Question : Avec l'Arduino ou avec le microPython ?
  Recuperer les informations du OLED
  MicroPython <br>
   https://how2electronics.com/micropython-interfacing-oled-display-esp32/
+<br>
+  https://pypi.org/project/micropython-ssd1306/#files
