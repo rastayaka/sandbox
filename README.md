@@ -7,7 +7,8 @@ Avec la coposant suivants, GY-521,0.96" OLED IIC faire un affichage de données 
 Question : Avec l'Arduino ou avec le microPython ?
 
   ## Phase 1
-
-
-TEST git SSH
+ 
+ Recuperer les informations du gyroscope 
+  MicroPython
+  Arduino
 
