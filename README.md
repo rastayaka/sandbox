@@ -11,6 +11,15 @@ Question : Avec l'Arduino ou avec le microPython ?
   ## Phase 1
  
  Recuperer les informations du gyroscope <br>
-  MicroPython <br>
+  MicroPython <br> 
+  DOCS <br>
+    https://microcontrollerslab.com/micropython-mpu-6050-esp32-esp8266/
+    
+  CODE 
+    https://raw.githubusercontent.com/adamjezek98/MPU6050-ESP8266-MicroPython/master/mpu6050.py
+  
   Arduino <br>
-
+    DOCS <br>
+      https://create.arduino.cc/projecthub/Nicholas_N/how-to-use-the-accelerometer-gyroscope-gy-521-6dfc19
+      (code inclue)
+    
