@@ -23,3 +23,7 @@ Question : Avec l'Arduino ou avec le microPython ?
       https://create.arduino.cc/projecthub/Nicholas_N/how-to-use-the-accelerometer-gyroscope-gy-521-6dfc19
       (code inclue)
     
+    
+ Recuperer les informations du OLED
+ MicroPython <br>
+  https://how2electronics.com/micropython-interfacing-oled-display-esp32/
