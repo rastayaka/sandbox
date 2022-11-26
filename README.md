@@ -8,7 +8,7 @@ Question : Avec l'Arduino ou avec le microPython ?
 
   ## Phase 1
  
- Recuperer les informations du gyroscope<br>
-  MicroPython
-  Arduino
+ Recuperer les informations du gyroscope <br>
+  MicroPython <br>
+  Arduino <br>
 
