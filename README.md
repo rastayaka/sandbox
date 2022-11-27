@@ -12,15 +12,10 @@ Question : Avec l'Arduino ou avec le microPython ?
  
  Recuperer les informations du gyroscope et du OLED <br>
 MicroPython <br> 
-     Dev fait par -> itechnofrance/micropython:master. 
+     Dev fait par -> https://github.com/itechnofrance/micropython.git
   
   Arduino <br>
     DOCS <br>
       https://create.arduino.cc/projecthub/Nicholas_N/how-to-use-the-accelerometer-gyroscope-gy-521-6dfc19
       (code inclue)
-    
-    
-
- MicroPython <br>
-         Dev fait par -> itechnofrance/micropython:master. <br>
 
