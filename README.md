@@ -10,13 +10,9 @@ Question : Avec l'Arduino ou avec le microPython ?
 
   ## Phase 1
  
- Recuperer les informations du gyroscope <br>
-  MicroPython <br> 
-  DOCS <br>
-    https://microcontrollerslab.com/micropython-mpu-6050-esp32-esp8266/
-    
-  CODE 
-    https://raw.githubusercontent.com/adamjezek98/MPU6050-ESP8266-MicroPython/master/mpu6050.py
+ Recuperer les informations du gyroscope et du OLED <br>
+MicroPython <br> 
+     Dev fait par -> itechnofrance/micropython:master. 
   
   Arduino <br>
     DOCS <br>
@@ -24,8 +20,7 @@ Question : Avec l'Arduino ou avec le microPython ?
       (code inclue)
     
     
- Recuperer les informations du OLED
+
  MicroPython <br>
-  https://how2electronics.com/micropython-interfacing-oled-display-esp32/
-<br>
-  https://pypi.org/project/micropython-ssd1306/#files
+         Dev fait par -> itechnofrance/micropython:master. <br>
+
