@@ -2,6 +2,7 @@
 
 from micropython import const
 import framebuf
+import utime
 
 
 # register definitions
@@ -32,6 +33,7 @@ class SSD1306(framebuf.FrameBuffer):
         self.external_vcc = external_vcc
         self.pages = self.height // 8
         self.buffer = bytearray(self.pages * self.width)
+        self.temp = bytearray(2)
         super().__init__(self.buffer, self.width, self.height, framebuf.MONO_VLSB)
         self.init_display()
 
@@ -68,7 +70,9 @@ class SSD1306(framebuf.FrameBuffer):
             0x10 if self.external_vcc else 0x14,
             SET_DISP | 0x01,
         ):  # on
+            utime.sleep_ms(100)
             self.write_cmd(cmd)
+
         self.fill(0)
         self.show()
 
