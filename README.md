@@ -18,4 +18,5 @@ MicroPython <br>
     DOCS <br>
       https://create.arduino.cc/projecthub/Nicholas_N/how-to-use-the-accelerometer-gyroscope-gy-521-6dfc19
       (code inclue)
-
+      
+https://github.com/rastayaka/sandbox/blob/main/media/IMG_20221127_101554.jpg
